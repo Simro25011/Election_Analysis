@@ -18,14 +18,15 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary and Analysis
 
-The Colorado Electoral Commission has requested further analysis of the election data. Turnout calculation questions for each constituency that votes in congressional districts. We had to create a code using Python in order to answer all those question.
+The Colorado Electoral Commission has requested further analysis of the election data. Turnout calculation questions for each constituency that votes in congressional districts. We have to create some code using python to answer all these questions first and who can apply to another state or county in the future based on the available dataset.
 
 https://github.com/Simro25011/Election_Analysis/blob/main/PyPoll_Challenge.py
 
 With the out file located in the resources folder we answer the following points and questions:
 
 How many votes were cast in this congressional election?
-Total Votes: 369,711
+
+- Total Votes: 369,711
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - County Votes:
