@@ -2,14 +2,14 @@
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election using a set of programmatic tools of Python, Visual Studio Code, and Git.
 
-# The Data we need to retrieve.
- 1. The Total number of votes cast.
- 2. A complete list of candidates who received votes.
- 3. The Percentage of votes each candidate won.
- 4. The total number of votes each candidate won.
- 5. The votes turnout for each county.
- 6. The county with the highest tournout.
- 7. The winner of the election based on popular vote.
+ 1.The Data we need to retrieve.
+ 2. The Total number of votes cast.
+ 3. A complete list of candidates who received votes.
+ 4. The Percentage of votes each candidate won.
+ 5. The total number of votes each candidate won.
+ 6. The votes turnout for each county.
+ 7. The county with the highest tournout.
+ 8. The winner of the election based on popular vote.
 
 ## Resources
 
